@@ -2,6 +2,7 @@
     "name": "xumin/water-mark",
     "description": "image water-mark",
     "minimum-stability": "dev",
+    "keywords":["image","watermark"],
     "license": "MIT",
     "version": "1.0.0",
     "authors": [
@@ -17,5 +18,6 @@
         "psr-0": {
             "thumb\\waterMark": "src/thumb/waterMark"
         }
-    }
+    },
+    "target-dir": "thumb/waterMark"
 }
