@@ -1,7 +1,6 @@
 {
     "name": "xumin/water-mark",
     "description": "image water-mark",
-    "minimum-stability": "dev",
     "keywords":["image","watermark"],
     "license": "MIT",
     "version": "1.0.0",
